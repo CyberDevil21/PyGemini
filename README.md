@@ -1,4 +1,7 @@
-# PyGemini
+# PyGemini by PyTools
+
+PyTools is a set of useful applications made in Python to make your life on the internet easier.
+
 A chatbot made entirely on Python using Gemini 2.0 Flash API.
 
 Copyright (C) 2025 CyberDevil21
@@ -17,3 +20,5 @@ You should have received a copy of the GNU General Public License
 along with this program. If not, see <https://www.gnu.org/licenses/>.
 
 Read the README in the .ZIP for more info.
+
+Copyright © PyTools 2025
